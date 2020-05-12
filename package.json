@@ -1,0 +1,22 @@
+{
+  "name": "test-combo",
+  "version": "0.0.2",
+  "description": "A testing framework that will generate jest test cases based on config",
+  "keywords": [
+    "jest",
+    "test",
+    "unit test",
+    "integration test"
+  ],
+  "main": "index.js",
+  "bugs": {
+    "email": "tedchength@gmail.com"
+  },
+  "author": "Ted Cheng",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "cartesian-product": "^2.1.2",
+    "jest": "^26.0.1"
+  }
+}
